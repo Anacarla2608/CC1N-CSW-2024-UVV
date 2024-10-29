@@ -1,0 +1,47 @@
+#principal {
+text-align: center;
+color: blue;
+}
+
+
+.esquerda {
+text-align: justify;
+color: green;
+}
+
+.direita {
+text-align: end;
+color: green;
+}
+
+.segundo {
+text-align: justify;
+color: green;
+font-size: 2em;
+}
+
+.divsimples {
+background-color: lightcyan;
+text-align: center;
+border: 1px solid black;
+}
+
+.divtratada {
+display: inline-block;
+background-color: lightcyan;
+text-align: center;
+height: 200px;
+width: 200px;
+border: 1px solid black;
+}
+
+h1 {
+font-size: 3m;
+font-style: italic;
+text-align: center;
+}
+
+.personalizado {
+display: block;
+border: 1px solid black;
+}
