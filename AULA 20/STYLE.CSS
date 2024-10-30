@@ -1,0 +1,28 @@
+body {
+background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+h1:hover{
+color: rgb(183, 0, 255);
+}
+
+a::before{
+content: ">>";
+}
+
+a:after{
+content: "[link]";
+}
+
+
+a:active{
+color: rgb(0, 255, 128);
+}
+
+.amazon a:visited {
+color: red;
+}
